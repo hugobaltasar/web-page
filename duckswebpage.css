@@ -1,0 +1,32 @@
+p {
+  color: red;
+  font-size: 25px
+}
+h1 {
+  color: black;
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 60px;
+  font-variant: small-caps;
+}
+header {
+  background-image:           url('http://5850200.sites.myregisteredsite.com/blog/wp-content/uploads/2012/03/Aquascape-Customer-Photos-038.jpg');
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-size: cover;
+}
+img {
+  width: 1000px;
+  height: 800px;
+}
+h2 {
+  display: inline;
+}
+nav {
+  margin-top: 80px;
+  padding: 10px;
+  background: green;
+}
+a {
+  color: black;
+}
